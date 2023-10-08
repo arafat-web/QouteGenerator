@@ -1,4 +1,8 @@
-# qoutegenerator
+# Quote Generator
+
+### Demo
+
+<img src="./src/assets/demo.png" alt="demo"/>
 
 ## Project setup
 ```
@@ -19,6 +23,7 @@ npm run build
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
